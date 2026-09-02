@@ -1,4 +1,4 @@
-# AstraQuantum Internship — Cybersecurity Track
+# AstraQuantum Internship 
 
 ## Overview
 
